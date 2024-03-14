@@ -2,9 +2,6 @@
  const myScoreDisplay = document.querySelector(".score1");
  const herScoreDisplay = document.querySelector(".score2");
   const textDisplay = document.getElementById("textdisplay");
-//  const resultEL = document.getElementById("textdisplay");
-// // const userscoreEl = document.getElementById ("user-score");
-// // const computerscoreEl = document.getElementById("computer-score");
 
  let myScore = 0;
  let herScore = 0;
